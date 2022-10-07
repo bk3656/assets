@@ -1,0 +1,32 @@
+{
+    "name": "chb coin hub token",
+    "website": "https://www.thecoinhub.io",
+    "description": "A utility toke for coin hub exchange",
+    "explorer": "https://bscscan.com/",
+    "research": "https://research.binance.com/en/projects/chb",
+    "symbol": "CHB",
+    "type": "token",
+    "decimals": 8,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/bk3656/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/coinhubchb"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/thecoinhubofficial"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://thecoinhub.io/CoinhubWhitepaper.pdf"
+        }
+    ]
+}
